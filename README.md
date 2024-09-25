@@ -8,3 +8,5 @@ The task of determining whether two products are identical was formulated as a b
 Several data processing experiments were conducted, including calculating cosine similarity for specific features before concatenation to reduce the model's complexity and feature count. This optimization provided a performance boost, along with the implementation of XGBoost using hyperparameters tuned through Grid Search.
 
 In conclusion, solving this problem was both challenging and rewarding, showcasing the potential for innovation in product matching systems.
+![Alt text](Baseline_part1.png)
+![Alt text](Baseline_part2.png)
